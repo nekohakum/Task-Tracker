@@ -102,7 +102,7 @@ body {
 }
 
 .form-control-check input {
-	flex: 2;
+	flex: 0.4;
 	height: 20px;
 }
 
